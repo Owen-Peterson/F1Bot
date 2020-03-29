@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="F1Bot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/F1Bot_jar</output-path>
+    <root id="archive" name="F1Bot.jar">
+      <element id="module-output" name="F1Bot" />
+    </root>
+  </artifact>
+</component>
